@@ -1,1 +1,2 @@
-"# pythonProjects" 
+# pythonProjects
+Just a simple projects
