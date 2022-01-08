@@ -11,9 +11,9 @@ if AP == "Pm":
 while True:
     if int(t[0]) == datetime.now().hour and int(t[1]) == datetime.now().minute:
         print("Its time!!!!")
-        playsound("C:/Users/DELL/OneDrive/Máy tính/openCV/alarm_tones.mp3")
+        playsound("C:/Users/DELL/OneDrive/Máy tính/pythonProjects/alarm_tones.mp3")
         time.sleep(1)
-        playsound("C:/Users/DELL/OneDrive/Máy tính/openCV/alarm_tones.mp3")
+        playsound("C:/Users/DELL/OneDrive/Máy tính/pythonProjects/alarm_tones.mp3")
         time.sleep(1)
-        playsound("C:/Users/DELL/OneDrive/Máy tính/openCV/alarm_tones.mp3")
+        playsound("C:/Users/DELL/OneDrive/Máy tính/pythonProjects/alarm_tones.mp3")
         break 
