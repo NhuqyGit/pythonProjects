@@ -12,4 +12,4 @@ while tic:
     time.sleep(1)
     tic -= 1
 print("Its time!!!")
-playsound("C:/Users/DELL/OneDrive/Máy tính/openCV/iphone_4s.mp3")
+playsound("C:/Users/DELL/OneDrive/Máy tính/pythonProjects/iphone_4s.mp3")
